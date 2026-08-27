@@ -68,4 +68,4 @@ GEMINI_API_KEY=
 
 ## Status
 
-This was built as a university applied project (2025) and is not in active production use.
+This was built as a university project for the unit- Applied Project (2025) and is not in active production use.
